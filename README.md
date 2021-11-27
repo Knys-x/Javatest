@@ -1,2 +1,2 @@
 # Javatest
-This is a description.
+This is a repository for array.
